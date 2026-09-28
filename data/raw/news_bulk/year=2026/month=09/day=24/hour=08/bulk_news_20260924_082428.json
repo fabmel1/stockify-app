@@ -1,0 +1,3079 @@
+{
+    "items": "50",
+    "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+    "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+    "feed": [
+        {
+            "title": "Why is Microsoft (NASDAQ:MSFT) in focus amid today’s bluechip stocks discussion?",
+            "url": "https://kalkinemedia.com/us/stocks/bluechip/why-is-microsoft-nasdaqmsft-in-focus-amid-todays-bluechip-stocks-discussion",
+            "time_published": "20260923T084237",
+            "authors": [
+                "Anmol Khazanchi"
+            ],
+            "summary": "Microsoft is currently a focal point in bluechip stock discussions due to a record-setting technology backdrop, easing oil prices, and softer Treasury yields. The article emphasizes that while broader market themes influence stock movements, operational execution, customer demand, and competitive conditions remain central to understanding Microsoft's position. It highlights the importance of distinguishing between overarching market trends and company-specific developments to gain a comprehensive view of the tech giant's performance and relevance.",
+            "banner_image": "https://kalkinemedia.com/storage/uploads/large/shutterstock_50996503_09_23_2026_08_31_36_247075.jpg",
+            "source": "Kalkine Media",
+            "category_within_source": "General",
+            "source_domain": "Kalkine Media",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.925502"
+                },
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.844500"
+                },
+                {
+                    "topic": "economy_macro",
+                    "relevance_score": "0.639353"
+                }
+            ],
+            "overall_sentiment_score": 0.103688,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.068699",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.632516",
+                    "ticker_sentiment_score": "0.128708",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.636808",
+                    "ticker_sentiment_score": "0.111922",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.620775",
+                    "ticker_sentiment_score": "0.125700",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.644393",
+                    "ticker_sentiment_score": "0.101031",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Neuberger Berman Group LLC Trims AMERISAFE Inc (AMSF) Stake to 5",
+            "url": "https://www.gurufocus.com/news/9076554/neuberger-berman-group-llc-trims-amerisafe-inc-amsf-stake-to-569-shares-stock-trades-38-below-gf-value",
+            "time_published": "20260909T182051",
+            "authors": [
+                "GuruFocus.com"
+            ],
+            "summary": "Neuberger Berman Group LLC significantly reduced its stake in AMERISAFE Inc (AMSF) by 99.96%, selling over 1.2 million shares. This decisive exit comes as AMSF has struggled, being down over 34% year-to-date, despite trading at a 38% discount to its GF Value. GuruFocus cautions that AMSF may be a \"Possible Value Trap\" due to weak growth and profitability rankings, despite its apparent undervaluation.",
+            "banner_image": "https://userupload.gurufocus.com/cdn-cgi/image/width=600,quality=100/2098213384267931648.png",
+            "source": "GuruFocus",
+            "category_within_source": "General",
+            "source_domain": "GuruFocus",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.944499"
+                },
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.817808"
+                },
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.738721"
+                }
+            ],
+            "overall_sentiment_score": -0.059871,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AMSF",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "-0.483940",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.600444",
+                    "ticker_sentiment_score": "0.106559",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.603017",
+                    "ticker_sentiment_score": "0.141105",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.614033",
+                    "ticker_sentiment_score": "0.107714",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.618996",
+                    "ticker_sentiment_score": "0.107403",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Jim Cramer Says Buy the Magnificent Seven Again, Traders See Nvidia as Clear Winner",
+            "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61637578/jim-cramer-magnificent-seven-nvidia",
+            "time_published": "20260904T200820",
+            "authors": [],
+            "summary": "Jim Cramer recommends buying the Magnificent Seven stocks again, citing that their significant AI investments are starting to yield stronger growth, making them more attractive. While Cramer advocates for a broader revival of these tech giants, prediction traders largely favor Nvidia to remain the world's largest company by the end of 2026, despite concerns about rising interest rates potentially impacting tech valuations. The article highlights strong revenue growth in cloud and AI segments for Amazon, Microsoft, and Alphabet, indicating that AI spending is beginning to translate into revenue.",
+            "banner_image": "https://cdn.benzinga.com/cdn-cgi/image/width=3840,format=auto,quality=85/files/images/story/2025/07/24/article-header-background-image.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "Benzinga",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.934188"
+                },
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.801380"
+                },
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.746925"
+                },
+                {
+                    "topic": "economy_monetary",
+                    "relevance_score": "0.632261"
+                }
+            ],
+            "overall_sentiment_score": 0.30101,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.453817",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.716983",
+                    "ticker_sentiment_score": "0.256928",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.691550",
+                    "ticker_sentiment_score": "0.299181",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.644197",
+                    "ticker_sentiment_score": "0.260885",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.561057",
+                    "ticker_sentiment_score": "0.107565",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Jim Cramer: Hyperscalers 'Wrecked Their Balance Sheets', But Apple Carries Twice Alphabet's Debt",
+            "url": "https://247wallst.com/investing/2026/09/02/jim-cramer-hyperscalers-wrecked-their-balance-sheets-but-apple-carries-twice-alphabets-debt/",
+            "time_published": "20260902T104751",
+            "authors": [
+                "Rich Duprey"
+            ],
+            "summary": "Jim Cramer praised Apple's \"pristine\" balance sheet while criticizing hyperscalers for excessive AI data center spending, but financial filings reveal Apple carries significantly more debt than Alphabet. Despite Apple's higher debt load and negative retained earnings due to extensive stock buybacks, the market rewards it with a higher P/E ratio due to its substantial liquidity. The article questions whether Apple's balance sheet will remain pristine if it significantly increases AI infrastructure spending under its new leadership.",
+            "banner_image": "https://247wallst.com/wp-content/uploads/2026/09/jim-cramer-hyperscalers-wrecked-their-balance-shee-featured-1788345235073-400x223.webp",
+            "source": "24/7 Wall St.",
+            "category_within_source": "General",
+            "source_domain": "24/7 Wall St.",
+            "topics": [
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.906556"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.842257"
+                },
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.815621"
+                },
+                {
+                    "topic": "economy_macro",
+                    "relevance_score": "0.600704"
+                },
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.632322"
+                }
+            ],
+            "overall_sentiment_score": -0.246041,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.974510",
+                    "ticker_sentiment_score": "-0.301782",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.909490",
+                    "ticker_sentiment_score": "0.096222",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.872852",
+                    "ticker_sentiment_score": "-0.340021",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.646641",
+                    "ticker_sentiment_score": "-0.232988",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.559495",
+                    "ticker_sentiment_score": "-0.264757",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Can Apple Inc. (NASDAQ:AAPL) Keep Its Steady Hand As Big Tech Leads Markets Higher?",
+            "url": "https://kalkinemedia.com/us/stocks/bluechip/can-apple-inc-nasdaqaapl-keep-its-steady-hand-as-big-tech-leads-markets-higher",
+            "time_published": "20260824T183701",
+            "authors": [
+                "Anmol Khazanchi"
+            ],
+            "summary": "Apple Inc. (NASDAQ:AAPL) is maintaining its strong position in the market as big tech continues to drive overall market growth. The company's integrated ecosystem of hardware, software, and services, combined with its strategic integration of AI into devices, contributes to its steadiness and appeal among blue-chip stocks. As rate-cut expectations firm up, large, dependable earners like Apple are expected to strengthen further.",
+            "banner_image": "https://kalkinemedia.com/storage/uploads/large/shutterstock_372039544_08_24_2026_18_35_53_762905.jpg",
+            "source": "Kalkine Media",
+            "category_within_source": "General",
+            "source_domain": "Kalkine Media",
+            "topics": [
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.944219"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.812285"
+                },
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.725479"
+                },
+                {
+                    "topic": "economy_macro",
+                    "relevance_score": "0.644315"
+                },
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.644735"
+                }
+            ],
+            "overall_sentiment_score": 0.324763,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.435481",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.740043",
+                    "ticker_sentiment_score": "0.321796",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.703648",
+                    "ticker_sentiment_score": "0.337529",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.615139",
+                    "ticker_sentiment_score": "0.325128",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.605865",
+                    "ticker_sentiment_score": "0.309543",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "The Zacks Analyst Blog Highlights Apple, Alphabet, Microsoft and Amazon",
+            "url": "https://www.theglobeandmail.com/investing/markets/stocks/AAPL/pressreleases/3998884/the-zacks-analyst-blog-highlights-apple-alphabet-microsoft-and-amazon/",
+            "time_published": "20260824T103705",
+            "authors": [
+                "Zacks Investment Research"
+            ],
+            "summary": "The Zacks Analyst Blog features an analysis of Apple (AAPL) stock, comparing its valuation and performance against Alphabet (GOOGL), Microsoft (MSFT), and Amazon (AMZN). While Apple shows strong iPhone sales, growing services revenue, and promising AI developments, its high P/E ratio suggests it might be overvalued. The article concludes that despite positive long-term prospects, Apple currently holds a Zacks Rank #3 (Hold) due to its premium valuation.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/b3/738.jpg",
+            "source": "The Globe and Mail",
+            "category_within_source": "General",
+            "source_domain": "The Globe and Mail",
+            "topics": [
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.943180"
+                },
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.817259"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.724661"
+                }
+            ],
+            "overall_sentiment_score": 0.023223,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.015693",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.736139",
+                    "ticker_sentiment_score": "0.049380",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.749833",
+                    "ticker_sentiment_score": "0.048978",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.641928",
+                    "ticker_sentiment_score": "0.027778",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "The Zacks Analyst Blog Highlights Apple, Alphabet, Microsoft and Amazon",
+            "url": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pressreleases/3998884/the-zacks-analyst-blog-highlights-apple-alphabet-microsoft-and-amazon/",
+            "time_published": "20260824T102800",
+            "authors": [
+                "Zacks Investment Research"
+            ],
+            "summary": "This Zacks Analyst Blog examines whether Apple's stock, with its 33.54x P/E ratio, is still a worthwhile investment compared to competitors like Alphabet, Microsoft, and Amazon. Despite Apple's strong iPhone sales and AI prospects, it faces significant challenges such as supply chain constraints, foreign exchange headwinds, and stiff competition. The article concludes that while Apple's long-term prospects are strong, its current premium valuation suggests investors might want to wait for a better entry point.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/b3/738.jpg",
+            "source": "The Globe and Mail",
+            "category_within_source": "General",
+            "source_domain": "The Globe and Mail",
+            "topics": [
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.835581"
+                },
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.941009"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.716853"
+                }
+            ],
+            "overall_sentiment_score": 0.051325,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.076796",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.707545",
+                    "ticker_sentiment_score": "0.131789",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.676766",
+                    "ticker_sentiment_score": "0.124379",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.611839",
+                    "ticker_sentiment_score": "0.123865",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "DELL",
+                    "relevance_score": "0.583673",
+                    "ticker_sentiment_score": "-0.128662",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "The Zacks Analyst Blog Highlights Apple, Alphabet, Microsoft and Amazon",
+            "url": "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/3998884/the-zacks-analyst-blog-highlights-apple-alphabet-microsoft-and-amazon/",
+            "time_published": "20260824T100701",
+            "authors": [
+                "Zacks Investment Research"
+            ],
+            "summary": "This Zacks Analyst Blog highlights Apple, Alphabet, Microsoft, and Amazon, focusing on Apple's stock valuation and performance. It discusses Apple's strengths, including strong iPhone sales and improving AI prospects, against challenges like supply chain constraints and competition. Despite a positive earnings outlook, Apple's current valuation suggests it might be overvalued compared to peers and the broader sector.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/b3/738.jpg",
+            "source": "The Globe and Mail",
+            "category_within_source": "General",
+            "source_domain": "The Globe and Mail",
+            "topics": [
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.947328"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.820905"
+                },
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.747381"
+                }
+            ],
+            "overall_sentiment_score": -0.098723,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.965661",
+                    "ticker_sentiment_score": "0.066059",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.723890",
+                    "ticker_sentiment_score": "-0.119134",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.696862",
+                    "ticker_sentiment_score": "-0.053502",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.603598",
+                    "ticker_sentiment_score": "0.000162",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "DELL",
+                    "relevance_score": "0.553652",
+                    "ticker_sentiment_score": "-0.157518",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "How Big Tech Captured American Schools",
+            "url": "https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html",
+            "time_published": "20260824T080903",
+            "authors": [
+                "Natasha Singer"
+            ],
+            "summary": "Big Tech companies like Google and Microsoft have significantly influenced American education through funding, curriculum development, and teacher training, often promoting their products and worldviews. This influence has led to concerns about corporate agendas shaping public schooling, with critics arguing that schools are becoming avenues for these multi-trillion-dollar companies to advance their interests, despite claims of filling gaps left by the public sector. While early adoption of tech in classrooms, like Chromebooks and coding initiatives, was widespread, there is growing pushback from parents and educators who question the educational benefits and ethical implications of this deep corporate involvement, especially with the rise of AI.",
+            "banner_image": "https://static01.nyt.com/images/2026/08/23/multimedia/22Biz-sun-BigTech-schools-zvqf/22Biz-sun-BigTech-schools-zvqf-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+            "source": "The New York Times",
+            "category_within_source": "General",
+            "source_domain": "The New York Times",
+            "topics": [
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.948404"
+                }
+            ],
+            "overall_sentiment_score": -0.110412,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.960490",
+                    "ticker_sentiment_score": "-0.137259",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.866650",
+                    "ticker_sentiment_score": "-0.185547",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.889810",
+                    "ticker_sentiment_score": "-0.157314",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.722233",
+                    "ticker_sentiment_score": "0.045181",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.635252",
+                    "ticker_sentiment_score": "0.040582",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Apple stock stands out among Magnificent Seven on low AI spending",
+            "url": "https://qz.com/apple-stock-magnificent-seven-ai-spending-market-edge-081926",
+            "time_published": "20260819T175500",
+            "authors": [
+                "Cris Tolomia"
+            ],
+            "summary": "Apple's conservative approach to AI spending has positioned its stock as a hedge against market volatility, setting it apart from other \"Magnificent Seven\" tech companies. While rivals pour billions into AI infrastructure, Apple's lower capital expenditure has led to strong financial performance and outperformance of its peers, especially after a period of investor anxiety over high AI costs. The company recently reported record June quarter revenues and regained its position as the world's most valuable company.",
+            "banner_image": "https://qz.com/cdn-cgi/image/width=1920,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2257911741-1920x1280.jpg",
+            "source": "Quartz",
+            "category_within_source": "General",
+            "source_domain": "Quartz",
+            "topics": [
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.942391"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.938256"
+                },
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.809484"
+                },
+                {
+                    "topic": "economy_macro",
+                    "relevance_score": "0.624604"
+                }
+            ],
+            "overall_sentiment_score": 0.279324,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.418106",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.718336",
+                    "ticker_sentiment_score": "0.212206",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.748869",
+                    "ticker_sentiment_score": "0.232058",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.720067",
+                    "ticker_sentiment_score": "0.212604",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.742188",
+                    "ticker_sentiment_score": "0.220294",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "NORGES BANK Buys Bilibili Inc (BILI) -- Shares Look 20% Undervalued on GF Value",
+            "url": "https://www.gurufocus.com/news/9042058/norges-bank-buys-bilibili-inc-bili-shares-look-20-undervalued-on-gf-value",
+            "time_published": "20260819T084207",
+            "authors": [
+                "GuruFocus News"
+            ],
+            "summary": "Norges Bank has acquired a significant new position in Bilibili Inc (BILI), purchasing 23,468,189 shares at $17.03 each, representing a fresh entry into the Chinese entertainment platform. This strategic move by one of the world's largest institutional investors suggests a long-term bet on Bilibili's value, as the stock is currently deemed \"Modestly Undervalued\" by GuruFocus's GF Value model, trading at a 20% discount to its estimated intrinsic value. Despite recent market underperformance and challenges in profitability, Norges Bank's investment highlights potential upside for value investors, though caution is advised due to weak momentum and regulatory uncertainties in the Chinese market.",
+            "banner_image": "https://userupload.gurufocus.com/cdn-cgi/image/width=600,quality=100/2089874953779453952.png",
+            "source": "GuruFocus",
+            "category_within_source": "General",
+            "source_domain": "GuruFocus",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.936535"
+                },
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.829092"
+                },
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.700852"
+                },
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.625619"
+                }
+            ],
+            "overall_sentiment_score": 0.342486,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BILI",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.346773",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.643454",
+                    "ticker_sentiment_score": "0.338047",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.620416",
+                    "ticker_sentiment_score": "0.318151",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.604068",
+                    "ticker_sentiment_score": "0.344459",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.608509",
+                    "ticker_sentiment_score": "0.340971",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "NORGES BANK Buys New Oriental Education & Technology Group Inc (EDU) -- Shares Look 27% Undervalued on GF Value",
+            "url": "https://www.gurufocus.com/news/9042067/norges-bank-buys-new-oriental-education-technology-group-inc-edu-shares-look-27-undervalued-on-gf-value",
+            "time_published": "20260819T024005",
+            "authors": [
+                "GuruFocus News"
+            ],
+            "summary": "Norges Bank, a major sovereign wealth fund, recently acquired a significant stake in New Oriental Education & Technology Group Inc (EDU), purchasing over 83 million shares at $45.91 each. This move signals confidence in the Chinese education provider, which GuruFocus assesses as \"Modestly Undervalued\" with a potential 27% upside. The investment highlights Norges Bank's strategy of investing in undervalued opportunities with strong fundamentals within global markets.",
+            "banner_image": "https://userupload.gurufocus.com/cdn-cgi/image/width=600,quality=100/2089876256635133952.png",
+            "source": "GuruFocus",
+            "category_within_source": "General",
+            "source_domain": "GuruFocus",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.922308"
+                },
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.814516"
+                },
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.704752"
+                }
+            ],
+            "overall_sentiment_score": 0.345721,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "EDU",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.468067",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.626440",
+                    "ticker_sentiment_score": "0.324840",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.601429",
+                    "ticker_sentiment_score": "0.308412",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.631347",
+                    "ticker_sentiment_score": "0.342485",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.617752",
+                    "ticker_sentiment_score": "0.308980",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "NORGES BANK Buys Federal Realty Investment Trust (FRT) -- Shares Look 6% Overvalued on GF Value",
+            "url": "https://www.gurufocus.com/news/9042063/norges-bank-buys-federal-realty-investment-trust-frt-shares-look-6-overvalued-on-gf-value",
+            "time_published": "20260819T020815",
+            "authors": [
+                "GuruFocus News"
+            ],
+            "summary": "Norges Bank has acquired a significant new position in Federal Realty Investment Trust (FRT), purchasing over 5.5 million shares, which now constitutes 6.48% of its total holdings and represents a notable diversification into the retail REIT sector. Despite FRT's stock being deemed 6% overvalued by GuruFocus's GF Value, Norges Bank's investment signals confidence in the company's long-term prospects, aligning with other guru investors who have also recently increased their stakes. Federal Realty Investment Trust, a premier retail REIT focusing on high-quality properties in affluent metropolitan areas, demonstrates strong long-term performance and solid financial health, making it an attractive option for institutional investors despite typical REIT financial risks.",
+            "banner_image": "https://userupload.gurufocus.com/cdn-cgi/image/width=600,quality=100/2089875685471592448.png",
+            "source": "GuruFocus",
+            "category_within_source": "General",
+            "source_domain": "GuruFocus",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.904347"
+                },
+                {
+                    "topic": "real_estate",
+                    "relevance_score": "0.912531"
+                },
+                {
+                    "topic": "retail_wholesale",
+                    "relevance_score": "0.830530"
+                },
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.700752"
+                }
+            ],
+            "overall_sentiment_score": 0.179029,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "FRT",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.280871",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.620449",
+                    "ticker_sentiment_score": "0.100525",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.639447",
+                    "ticker_sentiment_score": "0.136662",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.641910",
+                    "ticker_sentiment_score": "0.124314",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.610555",
+                    "ticker_sentiment_score": "0.124807",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "NORGES BANK Buys Rogers Corp (ROG) -- Shares Look 25% Overvalued on GF Value",
+            "url": "https://www.gurufocus.com/news/9042068/norges-bank-buys-rogers-corp-rog-shares-look-25-overvalued-on-gf-value",
+            "time_published": "20260819T011143",
+            "authors": [
+                "GuruFocus News",
+                "GuruFocus.com"
+            ],
+            "summary": "Norges Bank initiated a new position in Rogers Corp (ROG) by purchasing 984,922 shares at $163.73 per share, making it a significant institutional shareholder. While the stock has since declined to $136.75 and is considered \"Modestly Overvalued\" by GF Value, Rogers Corp exhibits strong financial health and institutional backing, with a low bankruptcy risk. Norges Bank's investment aligns with its focus on technology and financial services, indicating confidence in ROG's long-term potential despite recent operational headwinds.",
+            "banner_image": "https://userupload.gurufocus.com/cdn-cgi/image/width=600,quality=100/2089876411434311680.png",
+            "source": "GuruFocus",
+            "category_within_source": "General",
+            "source_domain": "GuruFocus",
+            "topics": [
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.929453"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.916164"
+                },
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.849053"
+                },
+                {
+                    "topic": "manufacturing",
+                    "relevance_score": "0.738444"
+                },
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.613934"
+                }
+            ],
+            "overall_sentiment_score": 0.278874,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ROG",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.001077",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.729106",
+                    "ticker_sentiment_score": "0.322962",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.719497",
+                    "ticker_sentiment_score": "0.348218",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.723092",
+                    "ticker_sentiment_score": "0.348844",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.730887",
+                    "ticker_sentiment_score": "0.307457",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Norges Bank Initiates New Position in Upstream Bio Inc (UPB) with 4.2 Million Share Purchase",
+            "url": "https://www.gurufocus.com/news/9042069/norges-bank-initiates-new-position-in-upstream-bio-inc-upb-with-42-million-share-purchase",
+            "time_published": "20260819T004111",
+            "authors": [
+                "GuruFocus News"
+            ],
+            "summary": "Norges Bank has initiated a new position in Upstream Bio Inc (UPB) by acquiring over 4.2 million shares, representing a 7.73% stake in the clinical-stage biotechnology company. This move, disclosed via a 13DG filing, signals a calculated, long-term commitment despite Upstream Bio's early-stage, pre-revenue status and recent stock decline. The investment suggests Norges Bank is making a high-risk, high-reward bet on the success of Upstream Bio's lead candidate, verekitug, for inflammatory diseases.",
+            "banner_image": "https://userupload.gurufocus.com/cdn-cgi/image/width=600,quality=100/2089876540706955264.png",
+            "source": "GuruFocus",
+            "category_within_source": "General",
+            "source_domain": "GuruFocus",
+            "topics": [
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.940227"
+                },
+                {
+                    "topic": "life_sciences",
+                    "relevance_score": "0.833778"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.725075"
+                },
+                {
+                    "topic": "ipo",
+                    "relevance_score": "0.645207"
+                }
+            ],
+            "overall_sentiment_score": 0.157868,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "UPB",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.223543",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.615297",
+                    "ticker_sentiment_score": "0.115320",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.608015",
+                    "ticker_sentiment_score": "0.146897",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.626031",
+                    "ticker_sentiment_score": "0.139737",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.609853",
+                    "ticker_sentiment_score": "0.126382",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "GOOGL|Alphabet Inc Class A|Price:345.850|Chg%:+1.650",
+            "url": "https://www.tradingkey.com/markets/stocks/googl/stock-analysis?ref=nova.kapualabs.com",
+            "time_published": "20260818T220818",
+            "authors": [],
+            "summary": "This article provides a comprehensive stock score and analysis for Alphabet Inc Class A (GOOGL) from TradingKey. It highlights that GOOGL's fundamentals are healthy, its growth potential is high, and its valuation is considered fair within the Software & IT Services industry. The analysis includes insights into institutional ownership, analyst ratings, and the stock's expected medium-term trend.",
+            "banner_image": null,
+            "source": "TradingKey",
+            "category_within_source": "General",
+            "source_domain": "TradingKey",
+            "topics": [
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.905004"
+                },
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.803274"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.707015"
+                },
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.613413"
+                }
+            ],
+            "overall_sentiment_score": 0.363339,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.409083",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.635924",
+                    "ticker_sentiment_score": "0.323786",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.635595",
+                    "ticker_sentiment_score": "0.334454",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.600043",
+                    "ticker_sentiment_score": "0.303382",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.615082",
+                    "ticker_sentiment_score": "0.337443",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "LGRO Dividend: 0.30% Yield, $0.16/Share — History & Dates",
+            "url": "https://www.gurufocus.com/etf/LGRO/dividend",
+            "time_published": "20260813T074039",
+            "authors": [],
+            "summary": "Level Four Large Cap Growth Active ETF (LGRO) offers a dividend yield of 0.3% ($0.16 per share annually) with a payout ratio of 0.21. The ETF has been paying dividends since 2023, exhibiting a 5-year dividend growth rate of 12.1% and a 10-year growth rate of 13.89%. The article details LGRO's complete dividend history, ex-dividend dates, and addresses frequently asked questions regarding its dividend performance.",
+            "banner_image": null,
+            "source": "GuruFocus",
+            "category_within_source": "General",
+            "source_domain": "GuruFocus",
+            "topics": [
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.935001"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.824054"
+                },
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.719848"
+                }
+            ],
+            "overall_sentiment_score": 0.337438,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "LGRO",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.434363",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.715961",
+                    "ticker_sentiment_score": "0.342121",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.726217",
+                    "ticker_sentiment_score": "0.318142",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.733692",
+                    "ticker_sentiment_score": "0.327545",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.725178",
+                    "ticker_sentiment_score": "0.343223",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "FMR LLC Adds to Domino's Pizza Inc (DPZ) Stake -- Shares Look 27% Undervalued on GF Value",
+            "url": "https://www.gurufocus.com/news/9026617/fmr-llc-adds-to-dominos-pizza-inc-dpz-stake-shares-look-27-undervalued-on-gf-value",
+            "time_published": "20260812T015141",
+            "authors": [
+                "GuruFocus News"
+            ],
+            "summary": "FMR LLC (Fidelity Investments) has increased its stake in Domino's Pizza Inc (DPZ) by acquiring 732,846 shares on June 30, 2026, at $296.04 per share. This transaction makes Domino's Pizza a 12.40% ownership stake for Fidelity, which has seen a 20.71% appreciation since the purchase. According to GuruFocus's GF Value methodology, Domino's is currently \"Modestly Undervalued\" by approximately 27%, trading at $357.34 against a GF Value of $486.64.",
+            "banner_image": "https://userupload.gurufocus.com/cdn-cgi/image/width=600,quality=100/2087350319469207552.png",
+            "source": "GuruFocus",
+            "category_within_source": "General",
+            "source_domain": "GuruFocus",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.932841"
+                },
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.815545"
+                },
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.733600"
+                },
+                {
+                    "topic": "retail_wholesale",
+                    "relevance_score": "0.629538"
+                }
+            ],
+            "overall_sentiment_score": 0.181666,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "DPZ",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.459302",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.646065",
+                    "ticker_sentiment_score": "0.137173",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.607430",
+                    "ticker_sentiment_score": "0.141081",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.649678",
+                    "ticker_sentiment_score": "0.138303",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.635803",
+                    "ticker_sentiment_score": "0.115169",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "FMR LLC Buys Ducommun Inc (DCO) -- Shares Look 180% Overvalued on GF Value",
+            "url": "https://www.gurufocus.com/news/9026605/fmr-llc-buys-ducommun-inc-dco-shares-look-180-overvalued-on-gf-value",
+            "time_published": "20260812T014751",
+            "authors": [
+                "GuruFocus.com"
+            ],
+            "summary": "FMR LLC (Fidelity) recently acquired 620,839 shares of Ducommun Inc (DCO), increasing its stake to 5.10%, despite the stock appearing significantly overvalued according to GuruFocus's GF Value calculation. Ducommun, an aerospace and defense supplier, has seen its stock price surge by over 103% year-to-date, trading at $197.26 against an estimated intrinsic value of $70.44. While Fidelity's investment reflects a growth-oriented strategy, the substantial overvaluation and mixed financial metrics like negative ROE suggest potential risks for value investors, even as institutional interest in the company persists.",
+            "banner_image": "https://userupload.gurufocus.com/cdn-cgi/image/width=600,quality=100/2087348283193335808.png",
+            "source": "GuruFocus",
+            "category_within_source": "General",
+            "source_domain": "GuruFocus",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.929802"
+                },
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.819844"
+                },
+                {
+                    "topic": "manufacturing",
+                    "relevance_score": "0.608530"
+                }
+            ],
+            "overall_sentiment_score": 0.026105,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "DCO",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "-0.403120",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.622347",
+                    "ticker_sentiment_score": "0.103873",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.605460",
+                    "ticker_sentiment_score": "0.110200",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.617631",
+                    "ticker_sentiment_score": "0.120544",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.642096",
+                    "ticker_sentiment_score": "0.136299",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "FMR LLC Reduces Stake in Essent Group Ltd (ESNT) by 42.76%",
+            "url": "https://www.gurufocus.com/news/9026611/fmr-llc-reduces-stake-in-essent-group-ltd-esnt-by-4276",
+            "time_published": "20260812T014613",
+            "authors": [
+                "GuruFocus News"
+            ],
+            "summary": "FMR LLC (Fidelity) significantly reduced its stake in Essent Group Ltd (ESNT) by 42.76% on June 30, 2026, selling over 2.1 million shares. Despite this reduction, Essent Group remains a fundamentally sound entity with strong growth potential, evidenced by its GF-Score of 91/100 and \"Fairly Valued\" status according to GuruFocus's GF Value model. The transaction likely reflects portfolio rebalancing by FMR LLC, which maintains a diversified investment approach with a bias towards high-growth industries.",
+            "banner_image": "https://userupload.gurufocus.com/cdn-cgi/image/width=600,quality=100/2087349345908334592.png",
+            "source": "GuruFocus",
+            "category_within_source": "General",
+            "source_domain": "GuruFocus",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.900747"
+                },
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.744099"
+                }
+            ],
+            "overall_sentiment_score": 0.145497,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ESNT",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.146734",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.608406",
+                    "ticker_sentiment_score": "0.122340",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.607258",
+                    "ticker_sentiment_score": "0.146145",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.610426",
+                    "ticker_sentiment_score": "0.138028",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.635892",
+                    "ticker_sentiment_score": "0.148280",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "FMR LLC Boosts ICF International Inc (ICFI) Stake -- Shares Still 15% Undervalued on GF Value",
+            "url": "https://www.gurufocus.com/news/9026642/fmr-llc-boosts-icf-international-inc-icfi-stake-shares-still-15-undervalued-on-gf-value",
+            "time_published": "20260812T013943",
+            "authors": [
+                "GuruFocus.com"
+            ],
+            "summary": "FMR LLC (Fidelity) significantly increased its stake in ICF International Inc (ICFI) on June 30, 2026, acquiring an additional 930,085 shares. This move underscores Fidelity's confidence in ICFI's long-term value, as the stock was purchased at $72.86 per share and has since appreciated by over 24%, though it remains \"Modestly Undervalued\" according to GuruFocus's GF Value model. The article highlights ICFI's strong growth and profitability in the professional services sector, despite moderate financial strength.",
+            "banner_image": "https://userupload.gurufocus.com/cdn-cgi/image/width=600,quality=100/2087353980664586240.png",
+            "source": "GuruFocus",
+            "category_within_source": "General",
+            "source_domain": "GuruFocus",
+            "topics": [
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.949402"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.814058"
+                },
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.738328"
+                }
+            ],
+            "overall_sentiment_score": 0.36926,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ICFI",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.462075",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.645212",
+                    "ticker_sentiment_score": "0.330259",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.626198",
+                    "ticker_sentiment_score": "0.307945",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.647265",
+                    "ticker_sentiment_score": "0.300005",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.624762",
+                    "ticker_sentiment_score": "0.302032",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "FMR LLC Buys Icon PLC (ICLR) -- Shares Look 21% Undervalued on GF Value",
+            "url": "https://www.gurufocus.com/news/9026633/fmr-llc-buys-icon-plc-iclr-shares-look-21-undervalued-on-gf-value",
+            "time_published": "20260812T013937",
+            "authors": [
+                "GuruFocus News"
+            ],
+            "summary": "FMR LLC (Fidelity) increased its stake in Icon PLC (ICLR) by 26.29%, adding over 1 million shares at $173.71 each, despite a recent 4.55% stock decline. GuruFocus's GF Value suggests Icon is 21% undervalued at $165.81, with a GF Value of $208.96, indicating a potential margin of safety. Fidelity's investment aligns with Icon's strong fundamentals, including a high GF Score of 96/100, robust growth, and profitability ranks, despite its high P/E ratio and moderate financial strength.",
+            "banner_image": "https://userupload.gurufocus.com/cdn-cgi/image/width=600,quality=100/2087352909430956032.png",
+            "source": "GuruFocus",
+            "category_within_source": "General",
+            "source_domain": "GuruFocus",
+            "topics": [
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.920208"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.810031"
+                },
+                {
+                    "topic": "life_sciences",
+                    "relevance_score": "0.945298"
+                },
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.723838"
+                }
+            ],
+            "overall_sentiment_score": 0.3775,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ICLR",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.497681",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.636159",
+                    "ticker_sentiment_score": "0.374428",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.634903",
+                    "ticker_sentiment_score": "0.377597",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.605422",
+                    "ticker_sentiment_score": "0.396466",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.609320",
+                    "ticker_sentiment_score": "0.392187",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Neuberger Berman Group LLC Trims QuidelOrtho Corp (QDEL) Stake -- Shares Trade 59% Below GF Value",
+            "url": "https://www.gurufocus.com/news/9026535/neuberger-berman-group-llc-trims-quidelortho-corp-qdel-stake-shares-trade-59-below-gf-value",
+            "time_published": "20260811T194200",
+            "authors": [
+                "GuruFocus News"
+            ],
+            "summary": "Neuberger Berman Group LLC reduced its stake in QuidelOrtho Corp (QDEL) by 4.34% on July 31, 2026, selling shares at $16.77 each. This divestment comes as QuidelOrtho faces significant financial and operational challenges, including a low GF-Score of 45/100 and negative growth trends, despite its shares trading well below their GF Value. The move reflects Neuberger Berman's cautious approach and strategic reallocation of capital towards more promising opportunities, given QuidelOrtho's deteriorating fundamentals in the post-pandemic diagnostics sector.",
+            "banner_image": "https://userupload.gurufocus.com/cdn-cgi/image/width=600,quality=100/2087340844934930432.png",
+            "source": "GuruFocus",
+            "category_within_source": "General",
+            "source_domain": "GuruFocus",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.915799"
+                },
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.818335"
+                },
+                {
+                    "topic": "life_sciences",
+                    "relevance_score": "0.729374"
+                }
+            ],
+            "overall_sentiment_score": 0.072044,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "QDEL",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "-0.620490",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.585360",
+                    "ticker_sentiment_score": "0.239774",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.578389",
+                    "ticker_sentiment_score": "0.223942",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.576428",
+                    "ticker_sentiment_score": "0.249973",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.583094",
+                    "ticker_sentiment_score": "0.213457",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Amazon.com, Inc. (AMZN) vs. Apple Inc. (AAPL): Hedge Funds Favor One over the Other",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-inc-amzn-vs-185154577.html",
+            "time_published": "20260811T145100",
+            "authors": [
+                "Fatima Gulzar"
+            ],
+            "summary": "Hedge funds show a preference for Amazon (AMZN) over Apple (AAPL), despite both tech giants beating revenue estimates. Amazon's stock surged due to strong AWS growth driven by AI spending, while Apple's fell after weak guidance, memory shortages, and CEO Tim Cook's final earnings call. The article suggests investors rewarded Amazon's growth and punished Apple's short-term challenges, with Amazon also having more than double Apple's hedge fund following.",
+            "banner_image": null,
+            "source": "Yahoo Finance",
+            "category_within_source": "General",
+            "source_domain": "Yahoo Finance",
+            "topics": [
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.948521"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.839559"
+                },
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.722176"
+                },
+                {
+                    "topic": "retail_wholesale",
+                    "relevance_score": "0.618384"
+                }
+            ],
+            "overall_sentiment_score": 0.102236,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "-0.408019",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.985980",
+                    "ticker_sentiment_score": "0.445769",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.602923",
+                    "ticker_sentiment_score": "0.100233",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.635536",
+                    "ticker_sentiment_score": "0.127340",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.630039",
+                    "ticker_sentiment_score": "0.127693",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Wearable Devices Receives U.S. Patent Grant for Biometric",
+            "url": "https://www.globenewswire.com/news-release/2026/08/11/3342725/0/en/wearable-devices-receives-u-s-patent-grant-for-biometric-user-authentication-in-gesture-and-voice-controlled-interface-device.html",
+            "time_published": "20260811T131021",
+            "authors": [],
+            "summary": "Wearable Devices Ltd. (Nasdaq: WLDS, WLDSW) has been granted a new U.S. patent for biometric user authentication in its gesture and voice-controlled interface devices. This patent strengthens the company's intellectual property by covering technologies that authenticate users based on combined gesture and unique biological signals, enabling secure payments and authorized actions. The technology is expected to become a key feature in future wearables, positioning Wearable Devices at the forefront of human-computer interaction.",
+            "banner_image": "https://ml.globenewswire.com/media/ODAyMGY2MjQtMzlmMS00MDI2LTg2NDYtM2I1NTQyMDk3YjExLTUwMDEwODk0Ny0yMDI2LTA4LTExLWVu/tiny/Wearable-Devices-Ltd-.png",
+            "source": "GlobeNewswire",
+            "category_within_source": "General",
+            "source_domain": "GlobeNewswire",
+            "topics": [
+                {
+                    "topic": "technology",
+                    "relevance_score": "1.000000"
+                }
+            ],
+            "overall_sentiment_score": 0.172213,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "WLDS",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.495858",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.611296",
+                    "ticker_sentiment_score": "0.117304",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.636109",
+                    "ticker_sentiment_score": "0.101776",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.608944",
+                    "ticker_sentiment_score": "0.117142",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.642261",
+                    "ticker_sentiment_score": "0.130381",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Apple (NASDAQ:AAPL) Shares Sold Rep. Michael A. Rulli",
+            "url": "https://www.marketbeat.com/instant-alerts/apple-nasdaqaapl-shares-sold-rep-michael-a-rulli-2026-08-11/",
+            "time_published": "20260811T060702",
+            "authors": [
+                "MarketBeat"
+            ],
+            "summary": "Representative Michael A. Rulli (Republican-Ohio) sold between $1,001 and $15,000 worth of Apple (NASDAQ: AAPL) shares on June 25th, as disclosed in an August 7th filing. Apple reported strong quarterly earnings and revenue, slightly exceeding analyst expectations, and declared a quarterly dividend of $0.27 per share. Analysts generally maintain a \"Moderate Buy\" rating for Apple with an average price target of $328.60.",
+            "banner_image": "https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png",
+            "source": "MarketBeat",
+            "category_within_source": "General",
+            "source_domain": "MarketBeat",
+            "topics": [
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.931593"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.802704"
+                },
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.747363"
+                }
+            ],
+            "overall_sentiment_score": 0.033297,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.037678",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.601321",
+                    "ticker_sentiment_score": "-0.132250",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.618775",
+                    "ticker_sentiment_score": "0.147091",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.638651",
+                    "ticker_sentiment_score": "-0.139065",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.644201",
+                    "ticker_sentiment_score": "0.127533",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Public Employees Retirement System of Ohio Sells 81,951 Shares of Apple Inc. $AAPL",
+            "url": "https://www.marketbeat.com/instant-alerts/filing-public-employees-retirement-system-of-ohio-sells-81951-shares-of-apple-inc-aapl-2026-08-10/",
+            "time_published": "20260810T084905",
+            "authors": [
+                "MarketBeat"
+            ],
+            "summary": "The Public Employees Retirement System of Ohio has reduced its stake in Apple Inc. by 1.3%, selling 81,951 shares in the first quarter, though Apple remains its second-largest holding. Despite the sell-off, Apple reported a strong quarter with earnings and revenue exceeding expectations, driven by solid demand for its products and services. Analyst consensus currently rates Apple as a \"Moderate Buy\" with an average price target of $330.44, amidst mixed investor sentiment regarding leadership transition, ongoing legal challenges, and increasing hardware competition.",
+            "banner_image": "https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png",
+            "source": "MarketBeat",
+            "category_within_source": "General",
+            "source_domain": "MarketBeat",
+            "topics": [
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.947079"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.829037"
+                },
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.749243"
+                }
+            ],
+            "overall_sentiment_score": 0.129424,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.100312",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.612351",
+                    "ticker_sentiment_score": "0.102216",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.633587",
+                    "ticker_sentiment_score": "0.124964",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.626748",
+                    "ticker_sentiment_score": "0.103071",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "GC Wealth Management RIA LLC Boosts Stake in Amazon.com, Inc. $AMZN",
+            "url": "https://www.marketbeat.com/instant-alerts/filing-gc-wealth-management-ria-llc-boosts-stake-in-amazoncom-inc-amzn-2026-08-08/",
+            "time_published": "20260808T150707",
+            "authors": [
+                "MarketBeat"
+            ],
+            "summary": "GC Wealth Management RIA LLC increased its stake in Amazon.com, Inc. by 4.3% in the first quarter, now owning 248,043 shares valued at approximately $51.7 million. This move is part of a larger trend of institutional investment, with various firms significantly modifying their holdings in Amazon. The article highlights Amazon's strong financial performance, exceeding revenue and earnings estimates, alongside analyst optimism and ongoing insider selling activities.",
+            "banner_image": "https://www.marketbeat.com/logos/amazoncom-inc-logo-1200x675.jpg",
+            "source": "MarketBeat",
+            "category_within_source": "General",
+            "source_domain": "MarketBeat",
+            "topics": [
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.920778"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.831211"
+                },
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.717378"
+                },
+                {
+                    "topic": "retail_wholesale",
+                    "relevance_score": "0.635398"
+                },
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.610946"
+                }
+            ],
+            "overall_sentiment_score": -0.021666,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.319548",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.641690",
+                    "ticker_sentiment_score": "-0.127883",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.649604",
+                    "ticker_sentiment_score": "-0.111287",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.615787",
+                    "ticker_sentiment_score": "-0.129283",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.635417",
+                    "ticker_sentiment_score": "-0.116915",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "EDGAR Filing Documents for 0001133228-26-011255",
+            "url": "https://www.sec.gov/Archives/edgar/data/1782952/000113322826011255/0001133228-26-011255-index.htm",
+            "time_published": "20260807T184035",
+            "authors": [],
+            "summary": "This document is an SEC EDGAR filing (Form N-CSR) for the KURV ETF TRUST, detailing a Certified Shareholder Report. It includes links to various associated documents, such as the N-CSR report, codes of ethics, certifications, and several graphic files. The filing also lists information about multiple Kurv ETF series and classes, including technology, yield premium strategy (Amazon, Apple, Google, Microsoft, Netflix, Tesla), and enhanced income ETFs, along with the trust's mailing and business addresses.",
+            "banner_image": "https://www.sec.gov/edgar/search/images/edgar-logo-2x.png",
+            "source": "SEC.gov",
+            "category_within_source": "General",
+            "source_domain": "SEC.gov",
+            "topics": [
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.843275"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.704290"
+                }
+            ],
+            "overall_sentiment_score": -0.168259,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "KCOP",
+                    "relevance_score": "0.330690",
+                    "ticker_sentiment_score": "0.016969",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.630598",
+                    "ticker_sentiment_score": "-0.158395",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.607793",
+                    "ticker_sentiment_score": "-0.191868",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.620480",
+                    "ticker_sentiment_score": "-0.179864",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.612862",
+                    "ticker_sentiment_score": "-0.150544",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Defiance Daily 2X Space ETF (SPCL) News, Articles, Events & Latest Updates",
+            "url": "https://stocktwits.com/symbol/SPCL/news",
+            "time_published": "20260807T024054",
+            "authors": [],
+            "summary": "This article compiles recent news and updates related to the Defiance Daily 2X Space ETF (SPCL), with a significant focus on SpaceX (SPCX) and its financial events. Key topics include SpaceX's lockup expiration, bond sales for refinancing, analyst opinions on its valuation, and the performance of its stock post-IPO. The articles also touch on related companies like Rocket Lab.",
+            "banner_image": null,
+            "source": "Stocktwits",
+            "category_within_source": "General",
+            "source_domain": "Stocktwits",
+            "topics": [
+                {
+                    "topic": "ipo",
+                    "relevance_score": "0.904381"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.816285"
+                },
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.711961"
+                }
+            ],
+            "overall_sentiment_score": 0.095272,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SPCL",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "-0.105801",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.649337",
+                    "ticker_sentiment_score": "0.114705",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.605857",
+                    "ticker_sentiment_score": "0.140264",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.619332",
+                    "ticker_sentiment_score": "0.133003",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.600368",
+                    "ticker_sentiment_score": "0.104968",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "VANGUARD CAPITAL MANAGEMENT LLC Adds to Altisource Portfolio Sol",
+            "url": "https://www.gurufocus.com/news/9009387/vanguard-capital-management-llc-adds-to-altisource-portfolio-solutions-sa-asps-stake-shares-trade-near-gf-value",
+            "time_published": "20260806T034246",
+            "authors": [
+                "GuruFocus News"
+            ],
+            "summary": "VANGUARD CAPITAL MANAGEMENT LLC increased its stake in Altisource Portfolio Solutions SA (ASPS) by purchasing 239,330 shares at $7.50 each on June 30, 2026, bringing their total holdings to 571,992 shares. Despite this addition, ASPS exhibits concerning financial metrics, including a negative Altman Z-Score and significant price decline since its IPO. The stock is currently assessed as \"Fairly Valued\" by GuruFocus, but its GF-Score suggests poor future performance potential, indicating VANGUARD's move could be a contrarian bet.",
+            "banner_image": "https://userupload.gurufocus.com/cdn-cgi/image/width=600,quality=100/2085188581047050240.png",
+            "source": "GuruFocus",
+            "category_within_source": "General",
+            "source_domain": "GuruFocus",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.943426"
+                },
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.847926"
+                },
+                {
+                    "topic": "real_estate",
+                    "relevance_score": "0.744845"
+                }
+            ],
+            "overall_sentiment_score": 0.03427,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ASPS",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "-0.279672",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.608851",
+                    "ticker_sentiment_score": "0.103356",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.614165",
+                    "ticker_sentiment_score": "0.134824",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.616213",
+                    "ticker_sentiment_score": "0.103205",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.641674",
+                    "ticker_sentiment_score": "0.143269",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "VANGUARD CAPITAL MANAGEMENT LLC Expands Stake in SELLAS Life Sciences Group Inc (SLS)",
+            "url": "https://www.gurufocus.com/news/9009386/vanguard-capital-management-llc-expands-stake-in-sellas-life-sciences-group-inc-sls",
+            "time_published": "20260806T024111",
+            "authors": [
+                "GuruFocus News"
+            ],
+            "summary": "Vanguard Capital Management LLC significantly increased its stake in SELLAS Life Sciences Group Inc (SLS) by acquiring 2,140,349 additional shares at $14.76 each. This transaction, executed on June 30, 2026, boosts Vanguard's holdings to 9,666,278 shares, representing a 28.44% increase and making SLS 5.19% of its total portfolio. Despite the firm's confidence, the stock has since declined by 19.58% to $11.87 per share, underscoring the volatility and speculative nature of biopharmaceutical investments.",
+            "banner_image": "https://userupload.gurufocus.com/cdn-cgi/image/width=600,quality=100/2085188445294206976.png",
+            "source": "GuruFocus",
+            "category_within_source": "General",
+            "source_domain": "GuruFocus",
+            "topics": [
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.821929"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.900009"
+                },
+                {
+                    "topic": "life_sciences",
+                    "relevance_score": "0.949098"
+                },
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.624756"
+                }
+            ],
+            "overall_sentiment_score": 0.12392,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SLS",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "-0.265765",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.570683",
+                    "ticker_sentiment_score": "0.216492",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.574665",
+                    "ticker_sentiment_score": "0.239636",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.561384",
+                    "ticker_sentiment_score": "0.234287",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.572339",
+                    "ticker_sentiment_score": "0.212931",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Aberdeen Group plc Buys ProQR Therapeutics NV (PRQR) -- Shares L",
+            "url": "https://www.gurufocus.com/news/9004062/aberdeen-group-plc-buys-proqr-therapeutics-nv-prqr-shares-look-11-undervalued-on-gf-value",
+            "time_published": "20260805T014141",
+            "authors": [
+                "GuruFocus.com"
+            ],
+            "summary": "Aberdeen Group plc significantly increased its stake in ProQR Therapeutics NV (PRQR) by purchasing over 5.6 million shares at $1.86 each, bringing their total ownership to 6.33%. Despite ProQR's low GF-Score and financial challenges typical of early-stage biopharmaceutical companies, GuruFocus assesses it as \"Modestly Undervalued\" with an 11% discount to its intrinsic value, suggesting a long-term conviction in its RNA therapeutics platform. This move by Aberdeen highlights a strategy to identify undervalued opportunities in high-growth sectors, particularly in the risky but potentially rewarding biopharmaceutical space.",
+            "banner_image": "https://userupload.gurufocus.com/cdn-cgi/image/width=600,quality=100/2084802126890049536.png",
+            "source": "GuruFocus",
+            "category_within_source": "General",
+            "source_domain": "GuruFocus",
+            "topics": [
+                {
+                    "topic": "life_sciences",
+                    "relevance_score": "0.937222"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.840979"
+                },
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.749229"
+                }
+            ],
+            "overall_sentiment_score": 0.269644,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PRQR",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.115766",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.645597",
+                    "ticker_sentiment_score": "0.303411",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.627341",
+                    "ticker_sentiment_score": "0.315271",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.609233",
+                    "ticker_sentiment_score": "0.303438",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.637357",
+                    "ticker_sentiment_score": "0.329465",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Amazon Joins Elite List of Stocks to Top $3 Trillion in Value",
+            "url": "https://www.bloomberg.com/news/articles/2026-08-03/amazon-joins-elite-list-of-stocks-to-top-3-trillion-in-value",
+            "time_published": "20260803T133911",
+            "authors": [
+                "Jeran Wittenstein"
+            ],
+            "summary": "Amazon.com Inc. has surpassed a $3 trillion market value for the first time, making it the fifth company to achieve this milestone. The company's shares climbed after strong second-quarter earnings, driven by accelerating cloud-computing revenue. Amazon now joins Nvidia, Alphabet, Microsoft, and Apple in this elite group.",
+            "banner_image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itZkXfYzhGAg/v0/-1x-1.webp",
+            "source": "Bloomberg",
+            "category_within_source": "General",
+            "source_domain": "Bloomberg",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.946676"
+                }
+            ],
+            "overall_sentiment_score": 0.441947,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.468074",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.649489",
+                    "ticker_sentiment_score": "0.418868",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.640738",
+                    "ticker_sentiment_score": "0.392111",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.627559",
+                    "ticker_sentiment_score": "0.419629",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.634113",
+                    "ticker_sentiment_score": "0.427897",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "AI Boom Delivers Historic Earnings Beats - Invesco QQQ Trust, Series 1 (NASDAQ:QQQ)",
+            "url": "https://www.benzinga.com/markets/tech/26/08/60863456/ai-spending-pays-off-as-big-tech-delivers-historic-earnings-beats-etfs-to-watch",
+            "time_published": "20260803T055737",
+            "authors": [
+                "Radhika Anilkumar Nadig"
+            ],
+            "summary": "The AI boom is leading to historic earnings beats, particularly for companies within the AI ecosystem. S&P 500 companies have surpassed earnings estimates by 27%, while Nasdaq 100 companies are beating by 55%, and those in Bloomberg's AI Value Chain Index by 71%. Big Tech firms like Microsoft and Amazon continue to invest heavily in AI infrastructure, demonstrating strong demand that supports record spending.",
+            "banner_image": "https://cdn.benzinga.com/cdn-cgi/image/width=1300,format=auto,quality=85/files/images/story/2025/07/24/article-header-background-image.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "Benzinga",
+            "topics": [
+                {
+                    "topic": "earnings",
+                    "relevance_score": "1.000000"
+                },
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.926499"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.814388"
+                },
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.726500"
+                },
+                {
+                    "topic": "economy_macro",
+                    "relevance_score": "0.643058"
+                }
+            ],
+            "overall_sentiment_score": 0.312065,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "QQQ",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.321399",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.749695",
+                    "ticker_sentiment_score": "0.437196",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.695156",
+                    "ticker_sentiment_score": "0.385195",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.615054",
+                    "ticker_sentiment_score": "0.293801",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.589355",
+                    "ticker_sentiment_score": "0.216456",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Consumer Tech (July 27-31): AI Boom Drives Tech Earnings As Apple, Amazon Lead Markets & More",
+            "url": "https://www.benzinga.com/markets/tech/26/08/60861868/consumer-tech-july-27-31-ai-boom-drives-tech-earnings-as-apple-amazon-lead-markets-more",
+            "time_published": "20260802T120006",
+            "authors": [
+                "Lekha Gupta"
+            ],
+            "summary": "This article summarizes key developments in consumer technology from July 27-31, highlighting the impact of the AI boom on tech earnings. Apple and Amazon reported strong financial results, with Apple facing challenges from rising memory chip costs and Amazon increasing its capital spending for AI infrastructure. The sector also saw significant news regarding semiconductor incentives, AI regulation, and earnings reports from other major tech companies like Microsoft, Meta, Roblox, and Reddit.",
+            "banner_image": "https://cdn.benzinga.com/cdn-cgi/image/width=1300,format=auto,quality=85/files/images/story/2025/07/24/article-header-background-image.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "Benzinga",
+            "topics": [
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.949167"
+                },
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.830234"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.713660"
+                },
+                {
+                    "topic": "economy_macro",
+                    "relevance_score": "0.606428"
+                },
+                {
+                    "topic": "retail_wholesale",
+                    "relevance_score": "0.637196"
+                }
+            ],
+            "overall_sentiment_score": 0.29316,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.408403",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.943770",
+                    "ticker_sentiment_score": "0.330193",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.640487",
+                    "ticker_sentiment_score": "0.340758",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.608749",
+                    "ticker_sentiment_score": "0.226748",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "INTC",
+                    "relevance_score": "0.634196",
+                    "ticker_sentiment_score": "0.126854",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Smart Investor: SpaceX in the Spotlight, Outperforming REITs, and a Vague Fed",
+            "url": "https://www.morningstar.com/markets/smart-investor-spacex-spotlight-outperforming-reits-vague-fed",
+            "time_published": "20260801T120916",
+            "authors": [
+                "Tom Lauricella"
+            ],
+            "summary": "This article provides a weekly market wrap-up, focusing on significant movements in big tech stocks, the upcoming SpaceX earnings report, and unexpected outperformance of real estate stocks. It also touches on insights into private credit, the outlook for Bitcoin, and the Federal Reserve's recent actions, offering investors a comprehensive overview of the week's financial landscape.",
+            "banner_image": "https://cloudfront-us-east-1.images.arcpublishing.com/morningstar/YIYMD4DEXJG7NFYR7RCR42XNPU.jpg",
+            "source": "Morningstar",
+            "category_within_source": "General",
+            "source_domain": "Morningstar",
+            "topics": [
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.917687"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.945593"
+                },
+                {
+                    "topic": "ipo",
+                    "relevance_score": "0.821925"
+                },
+                {
+                    "topic": "economy_monetary",
+                    "relevance_score": "0.715781"
+                },
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.638635"
+                }
+            ],
+            "overall_sentiment_score": 0.198956,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MORN",
+                    "relevance_score": "0.314146",
+                    "ticker_sentiment_score": "0.032876",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.972646",
+                    "ticker_sentiment_score": "0.429126",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.899208",
+                    "ticker_sentiment_score": "0.413088",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.820208",
+                    "ticker_sentiment_score": "0.257367",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.702633",
+                    "ticker_sentiment_score": "-0.313540",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Aberdeen Group plc Acquires 400,000 Shares of Eloxx Pharmaceuticals Inc (ELOX)",
+            "url": "https://www.gurufocus.com/news/8996728/aberdeen-group-plc-acquires-400000-shares-of-eloxx-pharmaceuticals-inc-elox?mobile=true",
+            "time_published": "20260731T193000",
+            "authors": [
+                "GuruFocus News"
+            ],
+            "summary": "Aberdeen Group plc acquired 400,000 shares of Eloxx Pharmaceuticals Inc (ELOX) at $13.88 per share, making it a new holding that represents 0.01% of Aberdeen's portfolio and 9.91% of ELOX's outstanding shares. Eloxx Pharmaceuticals is a clinical-stage biopharmaceutical company with weak profitability and growth metrics, operating at a loss, but with a moderate balance sheet and significant short-term stock appreciation. Despite the recent price surge, the stock carries high risk due to its low GF-Score, indicating poor future performance potential for value investors.",
+            "banner_image": "https://userupload.gurufocus.com/cdn-cgi/image/width=600,quality=100/2083351390314471424.png",
+            "source": "GuruFocus",
+            "category_within_source": "General",
+            "source_domain": "GuruFocus",
+            "topics": [
+                {
+                    "topic": "life_sciences",
+                    "relevance_score": "0.941063"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.844699"
+                },
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.744709"
+                }
+            ],
+            "overall_sentiment_score": 0.337533,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ELOX",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.307132",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.607760",
+                    "ticker_sentiment_score": "0.342010",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.643738",
+                    "ticker_sentiment_score": "0.340956",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.605805",
+                    "ticker_sentiment_score": "0.337774",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.645818",
+                    "ticker_sentiment_score": "0.335279",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "VICTORY CAPITAL MANAGEMENT INC Reduces FTI Consulting Inc (FCN)",
+            "url": "https://www.gurufocus.com/news/8993355/victory-capital-management-inc-reduces-fti-consulting-inc-fcn-stake-shares-look-33-undervalued-on-gf-value",
+            "time_published": "20260731T021149",
+            "authors": [
+                "GuruFocus News"
+            ],
+            "summary": "VICTORY CAPITAL MANAGEMENT INC recently reduced its stake in FTI Consulting Inc (FCN) by selling 111,377 shares at an average price of $149.01. Despite this reduction, the firm retains a significant ownership stake, and the stock is considered \"Significantly Undervalued\" by GuruFocus, with strong financial fundamentals and outperformance potential. This move by Victory Capital Management might be a tactical adjustment rather than a fundamental shift, given FTI Consulting's attractive valuation and institutional interest.",
+            "banner_image": "https://userupload.gurufocus.com/cdn-cgi/image/width=600,quality=100/2082990127948406784.png",
+            "source": "GuruFocus",
+            "category_within_source": "General",
+            "source_domain": "GuruFocus",
+            "topics": [
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.938403"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.841195"
+                },
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.732042"
+                }
+            ],
+            "overall_sentiment_score": 0.179829,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "FCN",
+                    "relevance_score": "0.964108",
+                    "ticker_sentiment_score": "0.287523",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.649690",
+                    "ticker_sentiment_score": "0.129848",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.632140",
+                    "ticker_sentiment_score": "0.118434",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.625358",
+                    "ticker_sentiment_score": "0.147421",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.615624",
+                    "ticker_sentiment_score": "0.107772",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3.97% Portfolio Impact",
+            "url": "https://www.gurufocus.com/news/8991647/t-rowe-price-equity-income-funds-top-second-quarter-2026-move-amazoncom-inc-at-a-397-portfolio-impact",
+            "time_published": "20260730T173849",
+            "authors": [
+                "GuruFocus News"
+            ],
+            "summary": "The T Rowe Price Equity Income Fund concluded its second quarter of 2026 by significantly increasing its stake in Amazon.com Inc., adding 2,918,000 shares for a 3.97% portfolio impact. The fund, managed by John Linehan, also made substantial new buys in Apple Inc., Unilever PLC, and McDonald's Corp., while reducing positions in Alphabet Inc. and Texas Instruments Inc. The portfolio now holds 118 stocks, with top concentrations in Financial Services and Technology, reflecting its value-oriented approach combined with an emphasis on dividend income and long-term capital growth.",
+            "banner_image": "https://userupload.gurufocus.com/cdn-cgi/image/width=600,quality=100/2082875666864447488.png",
+            "source": "GuruFocus",
+            "category_within_source": "General",
+            "source_domain": "GuruFocus",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.900667"
+                },
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.813443"
+                },
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.712373"
+                }
+            ],
+            "overall_sentiment_score": 0.21301,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TROW",
+                    "relevance_score": "0.916551",
+                    "ticker_sentiment_score": "0.333232",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.815838",
+                    "ticker_sentiment_score": "0.345651",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.741364",
+                    "ticker_sentiment_score": "0.336355",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.609377",
+                    "ticker_sentiment_score": "0.339851",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.644562",
+                    "ticker_sentiment_score": "-0.316212",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Victory Capital Management Reduces Stake in BJ's Wholesale Club Holdings Inc (BJ)",
+            "url": "https://www.gurufocus.com/news/8991163/victory-capital-management-reduces-stake-in-bjs-wholesale-club-holdings-inc-bj",
+            "time_published": "20260730T154046",
+            "authors": [
+                "GuruFocus.com"
+            ],
+            "summary": "Victory Capital Management Inc. has reduced its stake in BJ's Wholesale Club Holdings Inc. by selling over 1 million shares at $98.42 each, signaling a strategic portfolio adjustment. Following the sale, BJ's Wholesale Club remains \"Fairly Valued\" according to its GF Value, with a strong financial health score and good outperformance potential. This move aligns with a broader trend of net trimming by other gurus, suggesting a cautious stance on the stock.",
+            "banner_image": "https://userupload.gurufocus.com/cdn-cgi/image/width=600,quality=100/2082838834357379072.png",
+            "source": "GuruFocus",
+            "category_within_source": "General",
+            "source_domain": "GuruFocus",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.942353"
+                },
+                {
+                    "topic": "retail_wholesale",
+                    "relevance_score": "0.839184"
+                },
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.721561"
+                }
+            ],
+            "overall_sentiment_score": 0.080808,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BJ",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "-0.224687",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.619752",
+                    "ticker_sentiment_score": "0.119219",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.629266",
+                    "ticker_sentiment_score": "0.124718",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.608386",
+                    "ticker_sentiment_score": "0.119568",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.612545",
+                    "ticker_sentiment_score": "0.110043",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "GOOG|Alphabet Inc Class C|Price:334.500|Chg%:+1.900",
+            "url": "https://www.tradingkey.com/markets/stocks/goog/stock-analysis",
+            "time_published": "20260728T092618",
+            "authors": [],
+            "summary": "This article provides a comprehensive stock analysis of Alphabet Inc Class C (GOOG) by TradingKey, detailing its financial health, valuation, growth potential, and institutional confidence. Despite recent weak stock market performance, Alphabet's fundamentals are strong, with high revenue and profit growth. Key insights and risk assessments are presented, along with peer comparisons in the Software & IT Services industry.",
+            "banner_image": "https://resource.tradingkey.com/static/lseg/stocks/GOOG.png",
+            "source": "TradingKey",
+            "category_within_source": "General",
+            "source_domain": "TradingKey",
+            "topics": [
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.929972"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.933300"
+                },
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.839211"
+                }
+            ],
+            "overall_sentiment_score": 0.267722,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.304351",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.886567",
+                    "ticker_sentiment_score": "0.307520",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.632028",
+                    "ticker_sentiment_score": "0.205606",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.620730",
+                    "ticker_sentiment_score": "0.228648",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.600803",
+                    "ticker_sentiment_score": "0.226003",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "European Fund Returns to Nio with $19M Stake in First Major Q2 2026 Filing",
+            "url": "https://eletric-vehicles.com/nio/european-fund-returns-to-nio-with-19m-stake-in-first-major-q2-2026-filing/",
+            "time_published": "20260727T101252",
+            "authors": [
+                "Cláudio Afonso"
+            ],
+            "summary": "Assenagon Asset Management, a European fund managing approximately €83 billion, has re-established a significant position in Nio, acquiring 3,756,576 American depositary shares valued at over $19 million as of June 30, 2026. This move marks Assenagon's largest investment in Nio to date, 55 times greater than its previous peak holding, following a complete exit in late 2024. The filing provides the first insight into institutional investment activity in Nio for Q2 2026, with more updates expected from other major holders in the coming weeks.",
+            "banner_image": "https://eletric-vehicles.com/cdn-cgi/image/format=auto,quality=82/https://eletric-vehicles.com/wp-content/uploads/2026/07/006c7s6wgy1iey4y6nmbtj33uw2kce82-1600x1064.jpg",
+            "source": "Electric Vehicles",
+            "category_within_source": "General",
+            "source_domain": "Electric Vehicles",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.929796"
+                },
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.820167"
+                }
+            ],
+            "overall_sentiment_score": 0.345932,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NIO",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.266755",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.587071",
+                    "ticker_sentiment_score": "0.368815",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.604240",
+                    "ticker_sentiment_score": "0.366948",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.574728",
+                    "ticker_sentiment_score": "0.386495",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.570735",
+                    "ticker_sentiment_score": "0.391458",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Alphabet, Microsoft, Meta Platforms, Apple and Amazon are part of Zacks Earnings Preview",
+            "url": "https://www.tradingview.com/news/zacks:fbe40c941094b:0-alphabet-microsoft-meta-platforms-apple-and-amazon-are-part-of-zacks-earnings-preview/",
+            "time_published": "20260727T070701",
+            "authors": [],
+            "summary": "This article from Zacks Earnings Preview highlights the upcoming earnings reports for major tech companies like Alphabet, Microsoft, Meta Platforms, Apple, and Amazon. It discusses Alphabet's recent Q2 results, characterized by a cloud surge, a significant unrealized gain from SpaceX, and an unexpected increase in capital expenditures leading to negative free cash flow. The report also provides an overview of the Q2 earnings season, emphasizing the outsized impact of the \"Mag 7\" companies, particularly Alphabet, Micron, and Nvidia, on overall S&P 500 earnings growth.",
+            "banner_image": null,
+            "source": "TradingView",
+            "category_within_source": "General",
+            "source_domain": "TradingView",
+            "topics": [
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.947701"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.806345"
+                },
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.743308"
+                },
+                {
+                    "topic": "economy_macro",
+                    "relevance_score": "0.649535"
+                }
+            ],
+            "overall_sentiment_score": 0.05167,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.734466",
+                    "ticker_sentiment_score": "0.117803",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.926627",
+                    "ticker_sentiment_score": "-0.234043",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.838409",
+                    "ticker_sentiment_score": "0.141113",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.740053",
+                    "ticker_sentiment_score": "0.134122",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.721544",
+                    "ticker_sentiment_score": "0.137321",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Apple again the World’s Most Valuable Company as shares hit new all-time closing and intraday highs",
+            "url": "https://macdailynews.com/2026/07/27/apple-again-the-worlds-most-valuable-company-as-shares-hit-new-all-time-closing-and-intraday-highs/",
+            "time_published": "20260727T005321",
+            "authors": [],
+            "summary": "Apple Inc. (AAPL) has once again become the world's most valuable company, with its shares reaching new all-time closing and intraday highs. The company's market value now stands at $4.948 trillion, surpassing NVIDIA. This surge is attributed to growing optimism surrounding the incoming CEO, John Ternus, who replaced Tim Cook.",
+            "banner_image": "https://i0.wp.com/macdailynews.com/wp-content/uploads/2024/07/240731_apple_logo.png?resize=640%2C388&ssl=1",
+            "source": "MacDailyNews",
+            "category_within_source": "General",
+            "source_domain": "MacDailyNews",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.929721"
+                },
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.823291"
+                },
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.747520"
+                },
+                {
+                    "topic": "economy_macro",
+                    "relevance_score": "0.636695"
+                },
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.627746"
+                }
+            ],
+            "overall_sentiment_score": 0.312975,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.502215",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.721747",
+                    "ticker_sentiment_score": "0.330782",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.611633",
+                    "ticker_sentiment_score": "0.202611",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.628726",
+                    "ticker_sentiment_score": "0.237935",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.605730",
+                    "ticker_sentiment_score": "0.236588",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Cayson Acquisition Corp (CAPN) Institutional Confidence",
+            "url": "https://www.tradingkey.com/markets/stocks/capn/sentiment",
+            "time_published": "20260726T184030",
+            "authors": [],
+            "summary": "This article provides details on the institutional confidence in Cayson Acquisition Corp (CAPN), listing major shareholders and their shares held. It highlights the company's current stock performance, market capitalization, and P/E TTM ratio. The data presented aims to offer insights into institutional ownership and activity for current and prospective investors.",
+            "banner_image": "https://resource.tradingkey.com/static/lseg/stocks/CAPN.png",
+            "source": "TradingKey",
+            "category_within_source": "General",
+            "source_domain": "TradingKey",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.924632"
+                },
+                {
+                    "topic": "finance",
+                    "relevance_score": "0.820234"
+                }
+            ],
+            "overall_sentiment_score": 0.148003,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CAPN",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.109057",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.635667",
+                    "ticker_sentiment_score": "0.112318",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.647937",
+                    "ticker_sentiment_score": "0.101767",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.611868",
+                    "ticker_sentiment_score": "0.104876",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.608425",
+                    "ticker_sentiment_score": "0.136458",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Prediction: Apple Will Be a Long-Term AI Winner. 3 Reasons Why.",
+            "url": "https://finance.yahoo.com/technology/ai/articles/prediction-apple-long-term-ai-125000350.html",
+            "time_published": "20260724T123703",
+            "authors": [
+                "Neil Patel",
+                "The Motley Fool"
+            ],
+            "summary": "Apple is predicted to be a long-term AI winner despite its conservative approach, driven by its massive distribution advantage with over 2.5 billion active devices, a superior user experience with its hybrid on-device and cloud AI, and robust free cash flow due to avoiding the large AI infrastructure spending spree. The company's focus on hardware, software, and services differentiation, combined with its substantial FCF, positions it well in the AI landscape.",
+            "banner_image": "https://s.yimg.com/lo/mysterio/api/267D09AFAEF68BCBEA06C0A51236DFA8DA779687728443B12BDEA23D9C5FA6B3/subgraphmysterio/resizefill_w182_h48;quality_100;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F515f50a0-0f30-11eb-9ebf-0273aacc9ef0",
+            "source": "Yahoo Finance",
+            "category_within_source": "General",
+            "source_domain": "Yahoo Finance",
+            "topics": [
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.914227"
+                },
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.831619"
+                },
+                {
+                    "topic": "earnings",
+                    "relevance_score": "0.748445"
+                }
+            ],
+            "overall_sentiment_score": 0.123468,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.400853",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.608266",
+                    "ticker_sentiment_score": "0.324376",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.614030",
+                    "ticker_sentiment_score": "0.108076",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.606467",
+                    "ticker_sentiment_score": "-0.149088",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.640035",
+                    "ticker_sentiment_score": "-0.148680",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "OpenAI Seemingly Widens Net To Publishing, Licensing Content From Yelp",
+            "url": "https://finance.yahoo.com/media-advertising/articles/openai-seemingly-widens-net-publishing-195352965.html",
+            "time_published": "20260723T201039",
+            "authors": [
+                "Laurie Sullivan"
+            ],
+            "summary": "OpenAI has entered a licensing agreement with Yelp, allowing ChatGPT to access Yelp's business information, reviews, and photos, and integrate features like \"Request a Quote.\" This move suggests OpenAI is building an ad network focused on real-time data and semantic intent, aiming to attract small and medium-sized businesses by helping them connect with local consumers through AI search. The partnership addresses a trust gap in AI search by providing community-driven content from a credible source.",
+            "banner_image": "https://s.yimg.com/lo/mysterio/api/EA8BC29753FE76CDA2019CD487A95AB48CE0D8FF9978C9215763E1F883215FC2/subgraphmysterio/resizefit_w960_h600;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmediapost_446%2F6c102e73eeb51e71761ce612362a507f",
+            "source": "Yahoo Finance",
+            "category_within_source": "General",
+            "source_domain": "Yahoo Finance",
+            "topics": [
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.800408"
+                }
+            ],
+            "overall_sentiment_score": 0.144261,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "YELP",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.319525",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.643585",
+                    "ticker_sentiment_score": "0.118850",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.624571",
+                    "ticker_sentiment_score": "0.112133",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.630551",
+                    "ticker_sentiment_score": "0.141264",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.625849",
+                    "ticker_sentiment_score": "0.136534",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "No one talks about FAANG anymore. Now, it’s time to retire Magnificent Seven as well, Citigroup argues",
+            "url": "https://www.marketwatch.com/story/no-one-talks-about-faang-anymore-now-its-time-to-retire-magnificent-seven-as-well-citigroup-argues-ddf312c5",
+            "time_published": "20260720T091821",
+            "authors": [
+                "Steve Goldstein"
+            ],
+            "summary": "Citigroup strategists argue it's time to retire the \"Magnificent Seven\" as a stock-market talking point, similar to how the \"FAANG\" acronym is no longer discussed. They contend that the grouping, which includes Apple, Microsoft, Alphabet, Amazon, Meta Platforms, Nvidia, and Tesla, is no longer a useful construct for analyzing large-cap growth dynamics, especially given its recent underperformance compared to the broader market.",
+            "banner_image": "https://images.mktw.net/im-78600085?width=1260&height=840",
+            "source": "MarketWatch",
+            "category_within_source": "General",
+            "source_domain": "MarketWatch",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.900017"
+                },
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.812691"
+                },
+                {
+                    "topic": "economy_macro",
+                    "relevance_score": "0.700274"
+                }
+            ],
+            "overall_sentiment_score": 0.05955,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "C",
+                    "relevance_score": "0.857256",
+                    "ticker_sentiment_score": "0.072224",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.744354",
+                    "ticker_sentiment_score": "0.033333",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.692076",
+                    "ticker_sentiment_score": "0.022610",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.690113",
+                    "ticker_sentiment_score": "0.012903",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.630615",
+                    "ticker_sentiment_score": "0.004043",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "FMR LLC's Strategic Acquisition of LSI Industries Inc Shares",
+            "url": "https://www.gurufocus.com/news/8958958/fmr-llcs-strategic-acquisition-of-lsi-industries-inc-shares?mobile=true",
+            "time_published": "20260715T011543",
+            "authors": [
+                "GuruFocus News"
+            ],
+            "summary": "FMR LLC, also known as Fidelity, has significantly increased its stake in LSI Industries Inc by acquiring 3,777,681 shares at $26.58 each. This transaction brings FMR LLC's total holdings to 3,986,196 shares, representing a 10.90% stake in the company. The acquisition reflects FMR LLC's confidence in LSI Industries Inc's growth potential, aligning with its growth-oriented investment strategy in the technology sector.",
+            "banner_image": "https://userupload.gurufocus.com/cdn-cgi/image/width=600,quality=100/2077194748707381248.png",
+            "source": "GuruFocus",
+            "category_within_source": "General",
+            "source_domain": "GuruFocus",
+            "topics": [
+                {
+                    "topic": "financial_markets",
+                    "relevance_score": "0.931646"
+                }
+            ],
+            "overall_sentiment_score": 0.382692,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "LYTS",
+                    "relevance_score": "1.000000",
+                    "ticker_sentiment_score": "0.493663",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.624880",
+                    "ticker_sentiment_score": "0.385982",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.600715",
+                    "ticker_sentiment_score": "0.376289",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "GOOGL",
+                    "relevance_score": "0.636061",
+                    "ticker_sentiment_score": "0.375521",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.602634",
+                    "ticker_sentiment_score": "0.381529",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        }
+    ]
+}
